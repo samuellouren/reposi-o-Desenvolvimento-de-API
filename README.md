@@ -194,7 +194,7 @@ Altere a constante PORTA no arquivo server.js para outro número (ex: 3001)
 Erro: "SyntaxError: Unexpected token"
 Verifique se o JSON está formatado corretamente (use aspas duplas)
 
-Conceitos que Você Aprendeu
+Conceitos que eu Aprendi
 
 ✅ Como criar um servidor HTTP com Express
 ✅ O que são rotas e métodos HTTP (GET, POST, PATCH, DELETE)
